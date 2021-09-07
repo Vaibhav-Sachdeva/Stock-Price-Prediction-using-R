@@ -22,4 +22,4 @@ years, retrieved from Yahoo Finance API. The results will be used to analyze the
 
 In this study we focused in the application of different models, learning how to use them with the objective to forecast new price values. As we can see from our results, the models performed with similar future tendency predictions. All the models predicted a tendency of a higher price in 30 next days. We can conclude that the ARIMA and Neural Net models performed very well inside the prediction intervals and the accuracy metrics. The other models as they are new in this forecasting approach and the objective is to apply them in an intuitive form did not performed as well as ARIMA or Neural Net models.
 
-** For detailed analysis and results please see the final report.
+** For detailed analysis and results please see the report.
